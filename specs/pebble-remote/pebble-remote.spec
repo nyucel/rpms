@@ -15,6 +15,7 @@ Requires:       lightblue >= 0.4
 Requires:       python-pexpect
 Requires:       tkinter
 Requires:       bluez-tools
+Requires:       pyserial
 
 %description
 Pebble Remote is a free software that provides remote control for Libreoffice & Apache OpenOffice Impress with Pebble. 
