@@ -7,6 +7,7 @@ URL:            http://www.pebbleremote.com/
 Source:         https://github.com/COMU/pebble-remote/archive/master.zip
 License:        GPL
 BuildRequires:  python-devel
+BuildRequires:  python-setuptools
 BuildRequires:  pybluez >= 0.18
 BUildRequires:  lightblue >= 0.4
 Requires:       pybluez >= 0.18
